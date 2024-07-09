@@ -14,7 +14,5 @@ public class ArrayListExample {
         } else {
             System.out.println("ArrayList does not have enough elements.");
         }
-
-        
     }
 }
